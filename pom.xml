@@ -8,18 +8,18 @@
 	<parent>
 		<groupId>org.scijava</groupId>
 		<artifactId>pom-scijava</artifactId>
-		<version>12.0.0</version>
+		<version>14.0.0</version>
 		<relativePath />
 	</parent>
 
-	<groupId>com.mycompany</groupId>
+	<groupId>com.github.jonmarsh</groupId>
 	<artifactId>Process_Pixels</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
-	<name>Process Pixels</name>
-	<description>A Maven project implementing an ImageJ 1.x plugin.</description>
-	<url>http://mycompany.com/imagej/process-pixels/</url>
-	<inceptionYear>2012</inceptionYear>
+	<name>Glomeruli Annotation Plugin</name>
+	<description>A Maven project implementing an ImageJ 1.x plugin for annotating glomeruli in whole slide images</description>
+	<url>http://com.github.jonmarsh/glom_labeler/</url>
+	<inceptionYear>2017</inceptionYear>
 	<organization>
 		<name>My Company</name>
 		<url>http://mycompany.com/</url>
@@ -33,48 +33,13 @@
 
 	<developers>
 		<developer>
-			<id>ctrueden</id>
-			<name>Curtis Rueden</name>
-			<url>http://imagej.net/User:Rueden</url>
-			<roles>
-				<role>lead</role>
-				<role>developer</role>
-				<role>debugger</role>
-				<role>reviewer</role>
-				<role>support</role>
-				<role>maintainer</role>
-			</roles>
+			<id>jmarsh</id>
+			<name>Jon N. Marsh</name>
 		</developer>
 	</developers>
 	<contributors>
 		<contributor>
-			<name>Johannes Schindelin</name>
-			<url>http://imagej.net/User:Schindelin</url>
-			<roles><role>founder</role></roles>
-			<properties><id>dscho</id></properties>
-		</contributor>
-		<contributor>
-			<name>Olivier Burri</name>
-			<url>http://imagej.net/User:Oburri</url>
-			<properties><id>lacan</id></properties>
-		</contributor>
-		<contributor>
-			<name>Mark Hiner</name>
-			<url>http://imagej.net/User:Hinerm</url>
-			<properties><id>hinerm</id></properties>
-		</contributor>
-		<contributor>
-			<name>Jules Maselbas</name>
-		</contributor>
-		<contributor>
-			<name>Kota Miura</name>
-			<url>http://imagej.net/User:Miura</url>
-			<properties><id>cmci</id></properties>
-		</contributor>
-		<contributor>
-			<name>Yili Zhao</name>
-			<url>http://imagej.net/User:Panovr</url>
-			<properties><id>panovr</id></properties>
+			<name>None</name>
 		</contributor>
 	</contributors>
 
@@ -92,8 +57,7 @@
 		<url>https://github.com/imagej/example-legacy-plugin</url>
 	</scm>
 	<issueManagement>
-		<system>GitHub Issues</system>
-		<url>https://github.com/imagej/example-legacy-plugin/issues</url>
+		<system>None</system>
 	</issueManagement>
 	<ciManagement>
 		<system>None</system>
