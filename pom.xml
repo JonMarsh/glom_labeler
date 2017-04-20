@@ -18,7 +18,7 @@
 
 	<name>Glomeruli Annotation Plugin</name>
 	<description>A Maven project implementing an ImageJ 1.x plugin for annotating glomeruli in whole slide images</description>
-	<url>http://com.github.jonmarsh/glom_labeler/</url>
+	<url>https://com.github.jonmarsh/glom_labeler/</url>
 	<inceptionYear>2017</inceptionYear>
 	<organization>
 		<name>My Company</name>
